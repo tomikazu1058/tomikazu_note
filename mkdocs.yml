@@ -36,7 +36,7 @@ plugins:
 nav:
   - index.md
   - about.md
-  # - privacy.md
+  - privacy.md
 markdown_extensions:
   - meta
   - admonition
@@ -88,3 +88,6 @@ extra:
       link: https://github.com/tomikazu1058
       name: tomikazu on GitHub
   generator: false
+  analytics:
+    provider: google
+    property: G-ZW9XJGFFDQ
